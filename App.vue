@@ -142,6 +142,7 @@ ul {
   display:flex;
   margin:0 15%;
 }
+
 #Card_News {
   height: 80vh;
   text-align: center;
