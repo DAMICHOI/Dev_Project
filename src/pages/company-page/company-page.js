@@ -1,14 +1,14 @@
-import CompanyPageBar from './company-vue/company-page-bar.vue'
-import CompanyPageSearch from './company-vue/company-page-search.vue'
-import CompanyPageUserList from './company-vue/company-page-user-list.vue'
-import CompanyPageTotalList from './company-vue/company-page-total-list.vue'
+import TheSearch from "../../components/the-search.vue";
+import TheMenu from "../../components/the-menu.vue";
+import CompanyMainList from '../../components/company-main-list';
+import CompanyUserList from '../../components/company-user-list';
 
 export default {
   components: {
-    CompanyPageSearch,
-    CompanyPageBar,
-    CompanyPageUserList,
-    CompanyPageTotalList,
+    TheSearch,
+    TheMenu,
+    CompanyMainList,
+    CompanyUserList
   },
   data() {
     return {

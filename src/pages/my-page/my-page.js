@@ -1,14 +1,14 @@
-import MyPageSearch from "./my-vue/my-page-search.vue";
-import MyPageBar from "./my-vue/my-page-bar.vue";
-import MyPageCardnews from "./my-vue/my-page-cardnews.vue";
-import MyPageLogo from "./my-vue/my-page-user-list.vue";
+import TheSearch from "../../components/the-search.vue";
+import TheMenu from "../../components/the-menu.vue";
+import CardnewsUserList from "../../components/cardnews-user-list.vue";
+import CompanyMyList from "../../components/company-my-list.vue"
 
 export default {
   components: {
-    MyPageSearch,
-    MyPageBar,
-    MyPageLogo,
-    MyPageCardnews,
+    TheSearch,
+    TheMenu,
+    CompanyMyList,
+    CardnewsUserList
   },
 
   data() {
