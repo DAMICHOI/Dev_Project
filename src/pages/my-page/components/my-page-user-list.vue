@@ -44,6 +44,9 @@ export default {
   height: 120px;
   width: 100%;
   border-bottom: 1px solid black;
+  position:fixed;
+  width:100%;
+  top:150px;
 }
 .user_mypage_container .title {
   width: 10%;
