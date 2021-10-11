@@ -14,6 +14,8 @@
     padding-bottom: 5px;
     /* border-bottom: 3px solid; */
     justify-content: center;
+     position:fixed;
+    width:100%;
   }
   .search {
     height: 40px;
