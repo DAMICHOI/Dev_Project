@@ -1,10 +1,18 @@
 <template>
   <div class="row2">
     <ul class="top-menu">
-      <li><a class="menus">Home</a></li>
-      <li><a class="menus">Company</a></li>
-      <li><a class="menus">Mypage</a></li>
-      <li><a class="menus">Logout</a></li>
+      <li>
+        <a class="menus"> <router-link to="/">Main</router-link></a>
+      </li>
+      <li>
+        <a class="menus"> <router-link to="/Company">Company</router-link></a>
+      </li>
+      <li>
+        <a class="menus"><router-link to="/MyPage">MyPage</router-link></a>
+      </li>
+      <li>
+        <a class="menus"><router-link to="/Join">Join</router-link></a>
+      </li>
     </ul>
   </div>
 </template>

@@ -27,7 +27,7 @@
           <a href="">인스타<i class="fab fa-instagram"></i></a>
         </li>
         <li class="sns_li">
-          <a href="">페북<i class="fab fa-facebook-f"></i></a>
+          <a href="#">페북<i class="fab fa-facebook-f"></i></a>
         </li>
         <li class="sns_li">
           <a href="">트위터<i class="fab fa-twitter"></i></a>
