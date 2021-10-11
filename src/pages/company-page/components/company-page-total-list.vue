@@ -55,12 +55,15 @@ export default {
 
 <style>
   .total_company_container {
+    height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     height: 1000px;
-
     overflow: scroll;
+    position:fixed;
+    width:100%;
+    top:270px;
   }
   .total_company_container .title {
     font-size: 35px;
