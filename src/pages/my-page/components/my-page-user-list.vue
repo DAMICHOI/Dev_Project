@@ -54,9 +54,7 @@ export default {
 }
 .user_mypage_list {
   display: flex;
-  justify-content: center;
   align-items: center;
-
   max-width: 60%;
 }
 .user_mypage_list button {
