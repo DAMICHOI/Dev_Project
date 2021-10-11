@@ -16,6 +16,9 @@
   justify-content: space-between;
   align-items: center;
   background-color: white;
+  position:fixed;
+  width:100%;
+  top:110px;
 }
 @media screen and (max-width: 768) {
   .row2 {
