@@ -20,6 +20,9 @@
   justify-content: space-evenly;
   align-items: center;
   overflow: scroll;
+  position:fixed;
+  width:100%;
+  top:270px;
 }
 .card {
   background: #fff;
