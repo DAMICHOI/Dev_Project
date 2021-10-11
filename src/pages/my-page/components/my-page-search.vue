@@ -13,6 +13,8 @@
   height: 50px;
   padding-bottom: 5px;
   justify-content: center;
+  position:fixed;
+  width:100%;
 }
 .search {
   height: 40px;
