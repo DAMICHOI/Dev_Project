@@ -30,17 +30,14 @@
 }
 .top-menu {
   display: flex;
-  color: white;
-  float: left;
-  line-height: 30px;
-  vertical-align: middle;
-  text-align: center;
   justify-content: center;
-}
-ul {
+  text-align: center;
+  vertical-align: middle;
+
   list-style-type: none;
   float: left;
-  justify-content: center;
+  line-height: 30px;
+
   margin: 5px auto;
   padding: 0;
 }
